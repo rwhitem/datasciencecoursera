@@ -20,7 +20,7 @@
 
 2. In the window that follows, save the file with the name you want and keep it saved in HTML format (not PDF or Word).
 
-3. After you are finished with writing, save it with the name you saved it with in the beginning
+3. After you are finished with writing, save it as; 'the name you saved it with in the beginning'.md
 
 4. Commit it then push it to the repository.
 
